@@ -45,13 +45,13 @@ To check the log:
 
     sudo less /var/log/shadowsocks.log
 
-Check all the options via `-h`. You can also use a [Configuration] file
+Check all the options via `-h`. You can also use a [Configuration](https://github.com/neo-shadowsocks/shadowsocks/wiki/Configuration-via-Config-File) file
 instead.
 
 Documentation
 -------------
 
-You can find all the documentation in the [Wiki].
+You can find all the documentation in the [Wiki](https://github.com/neo-shadowsocks/shadowsocks/wiki).
 
 License
 -------
